@@ -1,0 +1,54 @@
+body {
+	width: 100%;
+	margin: 0 auto;
+	max-width: 1400px;
+}
+
+.container {
+	width: 100%;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.header {
+	display: inline-block;
+	padding: 2% 5% 0;
+	font-weight: bolder;
+}
+
+.top-wrapper {
+	background-color: lightblue;
+}
+
+.top-heading {
+	color: white;
+	font-weight: bold;
+	padding: 15% 0;
+}
+
+.profile,.skill,.brog {
+	margin-bottom: 10%;
+}
+
+h2 {
+	font-weight: bold;
+}
+
+.skill-content {
+	display: inline-block;
+	padding: 0;
+}
+
+.twitter {
+	width: 20px;
+	height: 20px;
+}
+
+.twitter,.acount {
+	display: inline-block;
+}
+
+.contact {
+	margin-bottom: 10%;
+}
+
